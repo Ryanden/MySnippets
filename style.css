@@ -1,0 +1,8 @@
+.card {
+    display: inline-block;
+    margin-right : 5px;
+    background-size: cover;
+    width: 200px;
+    height: 100px;
+    background-image: url('photo-1.jpg');
+}
